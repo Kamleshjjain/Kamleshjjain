@@ -13,6 +13,7 @@ public class clsTest5 {
 		//System.out.println("Sum of a and b is :" +sum);
 		System.out.println("Sum4");
 			
+		System.out.println("Added one println");
 		Assert.assertEquals(30,sum);
 	}
 	
